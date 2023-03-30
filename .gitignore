@@ -1,0 +1,3 @@
+*.log
+Reports
+gemfile.lock
